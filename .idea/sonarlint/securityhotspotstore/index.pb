@@ -7,3 +7,5 @@ W
 'contracts/institution-verification.clar,d/d/dd6f29d581e4fc80d30e9eb12d64363ad190bf89
 O
 contracts/student-identity.clar,c/b/cb2d62c7d9b8b5ae82f034699a65a6c6c5005dca
+R
+"contracts/verification-access.clar,1/e/1e0d4d3c5ee0a4748f16ea9b2b48e12b0bb35d20
